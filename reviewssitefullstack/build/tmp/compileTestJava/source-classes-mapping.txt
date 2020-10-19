@@ -1,0 +1,6 @@
+will/wecancodeit/reviewssitefullstack/ReviewssitefullstackApplicationTests.java
+ will.wecancodeit.reviewssitefullstack.ReviewssitefullstackApplicationTests
+will/wecancodeit/reviewssitefullstack/JPAWiringTest.java
+ will.wecancodeit.reviewssitefullstack.JPAWiringTest
+will/wecancodeit/reviewssitefullstack/WebLayerTest.java
+ will.wecancodeit.reviewssitefullstack.WebLayerTest

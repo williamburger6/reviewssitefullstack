@@ -1,0 +1,22 @@
+will/wecancodeit/reviewssitefullstack/ReviewssitefullstackApplication.java
+ will.wecancodeit.reviewssitefullstack.ReviewssitefullstackApplication
+will/wecancodeit/reviewssitefullstack/Repositories/MovieRepository.java
+ will.wecancodeit.reviewssitefullstack.Repositories.MovieRepository
+will/wecancodeit/reviewssitefullstack/Controllers/RatingController.java
+ will.wecancodeit.reviewssitefullstack.Controllers.RatingController
+will/wecancodeit/reviewssitefullstack/Repositories/RatingRepository.java
+ will.wecancodeit.reviewssitefullstack.Repositories.RatingRepository
+will/wecancodeit/reviewssitefullstack/Models/Genre.java
+ will.wecancodeit.reviewssitefullstack.Models.Genre
+will/wecancodeit/reviewssitefullstack/Models/Rating.java
+ will.wecancodeit.reviewssitefullstack.Models.Rating
+will/wecancodeit/reviewssitefullstack/Controllers/GenreController.java
+ will.wecancodeit.reviewssitefullstack.Controllers.GenreController
+will/wecancodeit/reviewssitefullstack/Repositories/GenreRepository.java
+ will.wecancodeit.reviewssitefullstack.Repositories.GenreRepository
+will/wecancodeit/reviewssitefullstack/Populator.java
+ will.wecancodeit.reviewssitefullstack.Populator
+will/wecancodeit/reviewssitefullstack/Models/Movie.java
+ will.wecancodeit.reviewssitefullstack.Models.Movie
+will/wecancodeit/reviewssitefullstack/Controllers/MovieController.java
+ will.wecancodeit.reviewssitefullstack.Controllers.MovieController
